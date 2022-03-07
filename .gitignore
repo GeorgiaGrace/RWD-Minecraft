@@ -2,6 +2,7 @@ world/
 world_nether/
 world_the_end/
 logs/
+bundler/
 whitelist.json
 usercache.json
 banned-ips.json
