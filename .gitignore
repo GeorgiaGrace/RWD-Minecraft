@@ -1,7 +1,7 @@
-/world
-/world_nether
-/world_the_end
-/logs
+world/
+world_nether/
+world_the_end/
+logs/
 whitelist.json
 usercache.json
 banned-ips.json
